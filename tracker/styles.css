@@ -2,3 +2,25 @@
     max-height: 250px;
     overflow: scroll;
 }
+
+.custom-checkbox {
+    margin-top: 15px;
+}
+
+.hazyIPA {
+    color: white;
+    background-color: limegreen;
+    font-weight: bold;
+}
+
+.impStout {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.saison {
+    color: white;
+    background-color: goldenrod;
+    font-weight: bold;
+}
